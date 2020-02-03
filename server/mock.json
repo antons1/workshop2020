@@ -1,0 +1,23 @@
+{
+  "subscriptions": [
+    {
+      "phone": "95026564",
+      "firstName": "Håkon",
+      "lastName": "Antonsen",
+      "email": "haakon@antons1.net",
+      "address": {
+          "street": "Tjernfaret",
+          "number": "49",
+          "zipcode": "0956",
+          "city": "Oslo"
+      },
+      "subscription": {
+          "name": "Telia X",
+          "dataAmount": "X",
+          "dataUnit": "GB",
+          "price": "499"
+      },
+      "id": 1
+    }
+  ]
+}
